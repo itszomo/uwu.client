@@ -1,44 +1,52 @@
-uwu.client | MODS : 123 | V1.2.4
+MODS : 249                           ,--.,--.   V : 1.2.4     ,--.   
+,--.,--.,--.   ,--.,--.,--.     ,---.|  |`--' ,---. ,--,--, ,-'  '-. 
+|  ||  ||  |.'.|  ||  ||  |    | .--'|  |,--.| .-. :|      \'-.  .-' 
+'  ''  '|   .'.   |'  ''  '.--.\ `--.|  ||  |\   --.|  ||  |  |  |   
+ `----' '--'   '--' `----' '--' `---'`--'`--' `----'`--''--'  `--'   
+
 
 ၊| Settings |၊
 • Join Discord
 
+
 • Menu Settings
+  • Panic
   • Menu Theme [Delphinium/Magnolia/Rose/Lilac/Pumpkin/GreenApple/Midnight/NightSky]
   • Menu Hand [Left/Right]
   • Home Button Location [Top/Bottom]
   • Notifications [On/Off]
+  • PC Notifications [On/Off]
   • Launch Audio [On/Off]
   • FPS Counter [On/Off]
   • Ping Counter [On/Off]
   • Watermark Bar [On/Off]
+  • Watermark Position [TopRight/TopLeft/BottomRight/BottomLeft]
+  • Array List [On/Off]
+  • Array List Position [TopRight/TopLeft/BottomRight/BottomLeft]
   • Discord RPC [On/Off]
   • Disconnect Button [On/Off]
-  • Menu Toggle Keybind [A/B/C/etc]
+  • Menu Toggle Keybind [Q/E/R/F/X/C/B/V/G/T/Z]
   • Menu Smoothing [Sharp/Smooth/VerySmooth]
-  • Menu Transparency [0%/25%/40%/55%/70%/100%]
+  • Menu Transparency [Solid/25%/40%/55%/70%/Invisible]
   • Menu Outline [On/Off]
 
-• Movement Settings
-  • Platform Type [Normal/Sticky/Invis]
-  • Platform Input [Grips/Triggers]
 
-• Visual Settings
+• Mod Settings
+  • Platform Type [Normal/Sticky/Invisible/InvisibleSticky]
+  • Platform Input [Grip/Trigger]
+  • Boost Speed [Medium/Fast/VeryFast/Mosa/Comp/Slow]
+  • Fly Speed [Medium/Fast/VeryFast/VerySlow/Slow]
   • ESP Type [MenuTheme/Infection/ColorCode/ThemeGradient]
-  • Self ESP [On/Off]
-  • Tracer Location [LeftHand/RightHand/Head/Body]
-
-• Gun Settings
+  • ESP Target [OtherPlayers/Everyone]
+  • Tracer Location [RightHand/LeftHand/Head/Body]
   • Gun Color [MenuTheme/Red/Blue/Green/Purple/Orange/Yellow/White/Pink/Cyan]
   • Gun Ball [On/Off]
-  • Gun Transparency [0%/10%/20%/30%/40%/50%]
+  • Gun Transparency [Solid/10%/20%/30%/40%/50%]
   • Gun Animation [On/Off]
   • Gun Thickness [Thin/Normal/Thick/VeryThick]
   • Gun Lock [On/Off]
   • Gun Hand [Right/Left]
 
-• Gamemode Settings
-  • Coming Soon!
 
 • Config Settings
   • Save Config
@@ -51,6 +59,7 @@ uwu.client | MODS : 123 | V1.2.4
   • Open Config Folder
   • Auto Apply Config
 
+
 ၊| Movement |၊
   • Platforms
   • Fly
@@ -58,14 +67,14 @@ uwu.client | MODS : 123 | V1.2.4
   • Noclip Fly
   • TFly
   • Slingshot Fly
-  • Speedboost
+  • Speed Boost
   • WASD Fly
   • Iron Monke
   • Frozone
   • Car Monke
   • Slide Control
   • Up and Down
-  • Left and Right
+  • left and Right
   • Forwards and Backwards
   • Low Gravity
   • High Gravity
@@ -81,6 +90,7 @@ uwu.client | MODS : 123 | V1.2.4
   • Fast Swim
   • Teleport Map [Forest/City/Canyons/Clouds/Caves/Beach/Mountains/Basement/Metropolis/Arcade/SkatePark/Bayou]
   • Teleport
+
 
 ၊| Client |၊
   • Long Arms
@@ -115,6 +125,7 @@ uwu.client | MODS : 123 | V1.2.4
   • Gawk Player Gun
   • Piggyback Player Gun
 
+
 ၊| Visual |၊
   • First Person Camera
   • FPS Boost
@@ -139,9 +150,21 @@ uwu.client | MODS : 123 | V1.2.4
   • Bat Box ESP
   • Bat Dot ESP
   • Bat Chams
+  • Lucy Box ESP
+  • Lucy Dot ESP
+  • Lucy Chams
+  • No Halloween Decorations
+
 
 ၊| Gamemode |၊
-  • Currently Working on it :3
+  • Tag All
+  • Tag Gun
+  • Tag Aura
+  • Tag Self
+  • No Tag On Join
+  • Flick Tag
+  • Untag Self
+
 
 ၊| Overpowered |၊
   • Change Lucy Type [Red/Blue]
@@ -153,21 +176,43 @@ uwu.client | MODS : 123 | V1.2.4
   • Lucy Orbit [M]
   • Lucy Self [M]
   • Lucy Target Spaz [M]
+  • Tag Lag [M]
+  • Slow Gun [M]
+  • Slow All [M]
+  • Mat All [M]
+  • Mat Gun [M]
+  • Touch To Mat [M]
+  • Get Touched To Mat [M]
+  • Deafen All
+  • Deafen Gun
+  • Touch To Deafen
+  • Get Touched To Deafen
+
 
 ၊| Safety |၊
   • Anti Name Ban
   • Nametag Break
   • Silent AntiModChecker
   • AntiModChecker
-  • Anti VC Ban
+  • Anti VCBan
   • Anti Moderator
   • Flush Network
   • No Finger Movement
   • Flush Room Cache
+  • Flush RPC's
+  • Spoof Platform
+  • Fake Lag
+  • Spoof FPS
+  • Name Spoof
+  • Color Spoof
+  • Spoof Ranked Platform
+  • Spoof Ranked Badge
+
 
 ၊| Sound |၊
   • Mute Mic
   • Reset Mic
+
 
 ၊| Network |၊
   • Disconnect
@@ -175,7 +220,7 @@ uwu.client | MODS : 123 | V1.2.4
   • Quit
   • Join Modded Casual
   • Join Modded Infection
-  • Random Identification
+  • Random Indentification
   • Join Random Competitive Lobby
   • Join Random
   • Reconnect
@@ -190,6 +235,7 @@ uwu.client | MODS : 123 | V1.2.4
   • Unlock VIM
   • Anti AFK Kick
 
+
 ၊| Fun |၊
   • Grab Bug
   • Bug Orbit
@@ -197,11 +243,39 @@ uwu.client | MODS : 123 | V1.2.4
   • Destroy Bug
   • Grab Bat
   • Bat Orbit
-  • Bug Bat
+  • Bat Spaz
   • Destroy Bat
   • Grab Fly
   • Fly Orbit
   • Fly Spaz
   • Destroy Fly
+  • Remove Bracelet
+  • Bracelet Spam
+  • Get Bracelet
+  • Silent Hand Taps
+  • Claws
+  • Loud Hand Taps
+  • Air Swim
+  • Glider Aura
+  • Respawn Gliders
+  • Destroy Gliders
+  • Glider Blind Gun
+  • Glider Blind All
+  • Glider Gun
+  • Orbit Gliders
+  • Spaz Gliders
+  • Grab Gliders
+  • Fast Gliders
+  • Slowmo Gliders
+  • Spawn Hoverboard
+  • Shoot Hoverboards
+  • Orbit Hoverboards
+  • Hoverboard Aura
+  • Hoverboard Gun
+  • Spaz Hoverboard
+  • Rainbow Hoverboard
+  • Strobe Hoverboard
+  • Become Hoverboard
 
-MODS : 123
+
+MODS : 249

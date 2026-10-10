@@ -1,4 +1,4 @@
-MODS : 249                           ,--.,--.   V : 1.2.4     ,--.   
+MODS : 281                           ,--.,--.   V : 1.2.5     ,--.   
 ,--.,--.,--.   ,--.,--.,--.     ,---.|  |`--' ,---. ,--,--, ,-'  '-. 
 |  ||  ||  |.'.|  ||  ||  |    | .--'|  |,--.| .-. :|      \'-.  .-' 
 '  ''  '|   .'.   |'  ''  '.--.\ `--.|  ||  |\   --.|  ||  |  |  |   
@@ -36,8 +36,10 @@ MODS : 249                           ,--.,--.   V : 1.2.4     ,--.
   • Platform Input [Grip/Trigger]
   • Boost Speed [Medium/Fast/VeryFast/Mosa/Comp/Slow]
   • Fly Speed [Medium/Fast/VeryFast/VerySlow/Slow]
-  • ESP Type [MenuTheme/Infection/ColorCode/ThemeGradient]
+  • ESP Type [MenuTheme/Infection/ColorCode/ThemeGradient/Rainbow]
   • ESP Target [OtherPlayers/Everyone]
+  • Dynamic ESP [On/Off]
+  • ESP Smoothness [Sharp/Rounded]
   • Tracer Location [RightHand/LeftHand/Head/Body]
   • Gun Color [MenuTheme/Red/Blue/Green/Purple/Orange/Yellow/White/Pink/Cyan]
   • Gun Ball [On/Off]
@@ -46,6 +48,7 @@ MODS : 249                           ,--.,--.   V : 1.2.4     ,--.
   • Gun Thickness [Thin/Normal/Thick/VeryThick]
   • Gun Lock [On/Off]
   • Gun Hand [Right/Left]
+  • Lucy Speed Changer [Slow/Medium/Fast/VeryFast/Insane]
 
 
 • Config Settings
@@ -154,6 +157,10 @@ MODS : 249                           ,--.,--.   V : 1.2.4     ,--.
   • Lucy Dot ESP
   • Lucy Chams
   • No Halloween Decorations
+  • 2D Corner Box ESP
+  • 3D Corner Box ESP
+  • Full Bright
+  • Full Dark
 
 
 ၊| Gamemode |၊
@@ -164,6 +171,13 @@ MODS : 249                           ,--.,--.   V : 1.2.4     ,--.
   • No Tag On Join
   • Flick Tag
   • Untag Self
+  • Anti Tag
+  • Untag All
+  • Untag Gun
+  • Guardian All
+  • Guardian Self
+  • UnGuardian All
+  • UnGuardian Self
 
 
 ၊| Overpowered |၊
@@ -175,6 +189,7 @@ MODS : 249                           ,--.,--.   V : 1.2.4     ,--.
   • Lucy Target Gun [M]
   • Lucy Orbit [M]
   • Lucy Self [M]
+  • Lucy Speed
   • Lucy Target Spaz [M]
   • Tag Lag [M]
   • Slow Gun [M]
@@ -210,7 +225,22 @@ MODS : 249                           ,--.,--.   V : 1.2.4     ,--.
 
 
 ၊| Sound |၊
+  • Hand Tap Player
+  • Boop Player
+  • Gong Player
+  • Slap Player
+  • Sound Type [Glass/Metal/Squeaky/Crystal/Turkey/Frog/AK/Wolf/Cat/Bee/Boop/Gong/Slap/JmanHello/JmanOkay]
+  • Sound Spam
+  • Play Sound
+  • Loud Mic
   • Mute Mic
+  • Echo Voice
+  • Radio Voice
+  • Underwater Voice
+  • Reverb Voice
+  • Earrape Mic
+  • High Pitch Voice
+  • Low Pitch Voice
   • Reset Mic
 
 
@@ -225,6 +255,7 @@ MODS : 249                           ,--.,--.   V : 1.2.4     ,--.
   • Join Random
   • Reconnect
   • Restart Game
+  • Create Public Lobby
   • Create Public 20 Lobby
   • Accept TOS
   • Join Discord
@@ -234,6 +265,10 @@ MODS : 249                           ,--.,--.   V : 1.2.4     ,--.
   • US Servers
   • Unlock VIM
   • Anti AFK Kick
+  • Join Private Room
+  • Disable Network Triggers
+  • Disable Map Triggers
+  • Disable Quit Box
 
 
 ၊| Fun |၊
@@ -277,5 +312,7 @@ MODS : 249                           ,--.,--.   V : 1.2.4     ,--.
   • Strobe Hoverboard
   • Become Hoverboard
 
+၊| Projectiles |၊
+  • Anti Knockback
 
-MODS : 249
+MODS : 281

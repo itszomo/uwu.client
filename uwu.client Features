@@ -1,4 +1,4 @@
-MODS : 281                           ,--.,--.   V : 1.2.5     ,--.   
+MODS : 304                           ,--.,--.   V : 1.2.6     ,--.   
 ,--.,--.,--.   ,--.,--.,--.     ,---.|  |`--' ,---. ,--,--, ,-'  '-. 
 |  ||  ||  |.'.|  ||  ||  |    | .--'|  |,--.| .-. :|      \'-.  .-' 
 '  ''  '|   .'.   |'  ''  '.--.\ `--.|  ||  |\   --.|  ||  |  |  |   
@@ -243,6 +243,29 @@ MODS : 281                           ,--.,--.   V : 1.2.5     ,--.
   • Low Pitch Voice
   • Reset Mic
 
+၊| Spotify |၊
+  • Now Playing
+  • Play
+  • Pause
+  • Next Song
+  • Previous Song
+  • Spotify Volume Up 10+
+  • Spotify Volume Down -10
+  • Spotify Volume
+  • Open Spotify
+  • Download Song
+  • Local Player Info
+  • Stop Local
+  • Song Speed
+  • Song Reverb
+  • Music Volume
+  • Local Song
+  • Manage Local Songs
+    • Selected Song 
+    • Select Song
+    • Play Selected
+    • Delete Selected
+    • Open Music Folder
 
 ၊| Network |၊
   • Disconnect
@@ -315,4 +338,4 @@ MODS : 281                           ,--.,--.   V : 1.2.5     ,--.
 ၊| Projectiles |၊
   • Anti Knockback
 
-MODS : 281
+MODS : 304

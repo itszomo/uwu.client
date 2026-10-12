@@ -1,4 +1,4 @@
-MODS : 304                           ,--.,--.   V : 1.2.6     ,--.   
+MODS : 324                           ,--.,--.   V : 1.2.7     ,--.   
 ,--.,--.,--.   ,--.,--.,--.     ,---.|  |`--' ,---. ,--,--, ,-'  '-. 
 |  ||  ||  |.'.|  ||  ||  |    | .--'|  |,--.| .-. :|      \'-.  .-' 
 '  ''  '|   .'.   |'  ''  '.--.\ `--.|  ||  |\   --.|  ||  |  |  |   
@@ -82,6 +82,8 @@ MODS : 304                           ,--.,--.   V : 1.2.6     ,--.
   • Low Gravity
   • High Gravity
   • Zero Gravity
+  • Reverse Gravity
+  • Joystick Fly
   • Playspace Abuse
   • No Tag Freeze
   • Tag Freeze
@@ -131,14 +133,19 @@ MODS : 304                           ,--.,--.   V : 1.2.6     ,--.
 
 ၊| Visual |၊
   • First Person Camera
+  • Time of Day [Dawn/Morning/LateMorning/Midday/Afternoon/LateAfternoon/Dusk/Evening/Night/LateNight]
   • FPS Boost
   • Chams
   • 2D Box ESP
   • 2D Filled Box ESP
   • Line ESP
   • Skeleton ESP
+  • Circle ESP
   • Dot ESP
-  • Infotag ESP
+  • Nametags
+  • Pingtags
+  • Fpstags
+  • Platformtag
   • Tracers ESP
   • Beacons ESP
   • Trail ESP
@@ -159,8 +166,6 @@ MODS : 304                           ,--.,--.   V : 1.2.6     ,--.
   • No Halloween Decorations
   • 2D Corner Box ESP
   • 3D Corner Box ESP
-  • Full Bright
-  • Full Dark
 
 
 ၊| Gamemode |၊
@@ -218,6 +223,7 @@ MODS : 304                           ,--.,--.   V : 1.2.6     ,--.
   • Spoof Platform
   • Fake Lag
   • Spoof FPS
+  • Platform Spoof
   • Name Spoof
   • Color Spoof
   • Spoof Ranked Platform
@@ -266,6 +272,18 @@ MODS : 304                           ,--.,--.   V : 1.2.6     ,--.
     • Play Selected
     • Delete Selected
     • Open Music Folder
+
+၊| Soundboard |၊
+  • Reload Sounds
+  • Open Sounds Folder
+  • Soundboard Loop
+  • Stop All Sounds
+  • Select Sound
+  • Selected Sound
+  • Play Selected
+  • Stop Selected
+  • Board Playing
+  • Board Volume
 
 ၊| Network |၊
   • Disconnect
@@ -338,4 +356,4 @@ MODS : 304                           ,--.,--.   V : 1.2.6     ,--.
 ၊| Projectiles |၊
   • Anti Knockback
 
-MODS : 304
+MODS : 324

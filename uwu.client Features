@@ -1,4 +1,4 @@
-MODS : 324                           ,--.,--.   V : 1.2.7     ,--.   
+MODS : 340                           ,--.,--.   V : 1.2.7     ,--.   
 ,--.,--.,--.   ,--.,--.,--.     ,---.|  |`--' ,---. ,--,--, ,-'  '-. 
 |  ||  ||  |.'.|  ||  ||  |    | .--'|  |,--.| .-. :|      \'-.  .-' 
 '  ''  '|   .'.   |'  ''  '.--.\ `--.|  ||  |\   --.|  ||  |  |  |   
@@ -133,7 +133,9 @@ MODS : 324                           ,--.,--.   V : 1.2.7     ,--.
 
 ၊| Visual |၊
   • First Person Camera
+  • Freecam
   • Time of Day [Dawn/Morning/LateMorning/Midday/Afternoon/LateAfternoon/Dusk/Evening/Night/LateNight]
+  • Fog
   • FPS Boost
   • Chams
   • 2D Box ESP
@@ -356,4 +358,4 @@ MODS : 324                           ,--.,--.   V : 1.2.7     ,--.
 ၊| Projectiles |၊
   • Anti Knockback
 
-MODS : 324
+MODS : 340

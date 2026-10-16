@@ -11,6 +11,7 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
 
 • Menu Settings
   • Panic
+  • Clear Notifications
   • Menu Theme [Delphinium/Magnolia/Rose/Lilac/Pumpkin/GreenApple/Midnight/NightSky]
   • Menu Hand [Left/Right]
   • Home Button Location [Top/Bottom]
@@ -95,6 +96,9 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
   • Fast Swim
   • Teleport Map [Forest/City/Canyons/Clouds/Caves/Beach/Mountains/Basement/Metropolis/Arcade/SkatePark/Bayou]
   • Teleport
+  • Quick Drop
+  • Hover
+  • Drone
 
 
 ၊| Client |၊
@@ -129,6 +133,9 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
   • Backshot Player Gun
   • Gawk Player Gun
   • Piggyback Player Gun
+  • Spinbot
+  • T-Pose
+  • Head Stare
 
 
 ၊| Visual |၊
@@ -168,6 +175,7 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
   • No Halloween Decorations
   • 2D Corner Box ESP
   • 3D Corner Box ESP
+  • FOV [60/75/90/105/120]
 
 
 ၊| Gamemode |၊
@@ -185,6 +193,18 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
   • Guardian Self
   • UnGuardian All
   • UnGuardian Self
+  • Gadget Knockback All
+  • Lauch All Up
+  • Delete All Gadgets
+  • Freeze Gadgets
+  • Teleport Gadgets To Me
+  • Explode Gadgets
+  • Max Resources
+  • Unlock Full Tech Tree
+  • Vacuum Blocks
+  • Freeze Blocks
+  • Scatter Blocks
+  • Grab Blocks
 
 
 ၊| Overpowered |၊
@@ -209,6 +229,10 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
   • Deafen Gun
   • Touch To Deafen
   • Get Touched To Deafen
+  • Vibrate Gun
+  • Vibrate All
+  • Vibrate Aura
+  • Vibrate On Touch
 
 
 ၊| Safety |၊
@@ -230,6 +254,7 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
   • Color Spoof
   • Spoof Ranked Platform
   • Spoof Ranked Badge
+  • Random Name
 
 
 ၊| Sound |၊
@@ -312,6 +337,15 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
   • Disable Network Triggers
   • Disable Map Triggers
   • Disable Quit Box
+  • Copy Room Code
+  • Player List
+    • Player Name
+    • Player FPS
+    • Player Ping
+    • Player Tagged [true/false]
+    • Teleport To Player
+    • Tag Player
+    • Back To Player List
 
 
 ၊| Fun |၊
@@ -354,6 +388,10 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
   • Rainbow Hoverboard
   • Strobe Hoverboard
   • Become Hoverboard
+  • Lay On Back
+  • Lay On Stomach
+  • Upside Down
+  • Flipping
 
 ၊| Projectiles |၊
   • Anti Knockback

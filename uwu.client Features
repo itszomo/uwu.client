@@ -1,4 +1,4 @@
-MODS : 340                           ,--.,--.   V : 1.2.7     ,--.   
+MODS : 388                           ,--.,--.   V : 1.2.8     ,--.   
 ,--.,--.,--.   ,--.,--.,--.     ,---.|  |`--' ,---. ,--,--, ,-'  '-. 
 |  ||  ||  |.'.|  ||  ||  |    | .--'|  |,--.| .-. :|      \'-.  .-' 
 '  ''  '|   .'.   |'  ''  '.--.\ `--.|  ||  |\   --.|  ||  |  |  |   
@@ -7,7 +7,9 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
 
 ၊| Settings |၊
 • Join Discord
-
+• Menu Settings
+• Mod Settings
+• Config
 
 • Menu Settings
   • Panic
@@ -29,6 +31,8 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
   • Menu Toggle Keybind [Q/E/R/F/X/C/B/V/G/T/Z]
   • Menu Smoothing [Sharp/Smooth/VerySmooth]
   • Menu Transparency [Solid/25%/40%/55%/70%/Invisible]
+  • Background Theme [Noise/Static/Fade]
+  • Background Speed [0.25x/0.5x/1x/2x/4x]
   • Menu Outline [On/Off]
 
 
@@ -133,7 +137,6 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
   • Backshot Player Gun
   • Gawk Player Gun
   • Piggyback Player Gun
-  • Spinbot
   • T-Pose
   • Head Stare
 
@@ -141,6 +144,7 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
 ၊| Visual |၊
   • First Person Camera
   • Freecam
+  • FOV [60/75/90/105/120]
   • Time of Day [Dawn/Morning/LateMorning/Midday/Afternoon/LateAfternoon/Dusk/Evening/Night/LateNight]
   • Fog
   • FPS Boost
@@ -233,6 +237,7 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
   • Vibrate All
   • Vibrate Aura
   • Vibrate On Touch
+  • Get Touched To Vibrate
 
 
 ၊| Safety |၊
@@ -320,8 +325,12 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
   • Join Modded Infection
   • Random Indentification
   • Join Random Competitive Lobby
+  • Unlock Comp
   • Join Random
   • Reconnect
+  • Copy Room Code
+  • Reset Room Joining
+  • Auto Rejoin
   • Restart Game
   • Create Public Lobby
   • Create Public 20 Lobby
@@ -337,7 +346,6 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
   • Disable Network Triggers
   • Disable Map Triggers
   • Disable Quit Box
-  • Copy Room Code
   • Player List
     • Player Name
     • Player FPS
@@ -345,6 +353,8 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
     • Player Tagged [true/false]
     • Teleport To Player
     • Tag Player
+    • Spectate Player
+    • Spectate View [FirstPerson/ThirdPerson]
     • Back To Player List
 
 
@@ -395,5 +405,16 @@ MODS : 340                           ,--.,--.   V : 1.2.7     ,--.
 
 ၊| Projectiles |၊
   • Anti Knockback
+  • Get Projectile
+  • Projectile Spammer [CS]
+  • Projectile Minigun [CS]
+  • Projectile Launcher [CS]
+  • Projectile Type [too many..]
+  • Spammer Rate [Slow/Normal/Fast/Rapid/Insane]
+  • Spammer Speed [Slow/Normal/Fast/Rapid/Insane]
+  • Minigun Rate [Slow/Normal/Fast/Rapid/Insane]
+  • Minigun Speed [Slow/Normal/Fast/Rapid/Insane]
+  • Launcher Rate [Slow/Normal/Fast/Rapid/Insane]
+  • Launcher Speed [Slow/Normal/Fast/Rapid/Insane]
 
-MODS : 340
+MODS : 388
